@@ -1,4 +1,5 @@
 📌 Project Overview: 
+
 Customer churn is a critical business problem where customers stop using a company’s services. Retaining existing customers is more cost-effective than acquiring new ones.
 This project focuses on analyzing customer behavior and predicting churn using machine learning techniques to help businesses take proactive retention actions.
 
