@@ -6,9 +6,13 @@ This project focuses on analyzing customer behavior and predicting churn using m
 🎯 Objectives:
 
 Perform exploratory data analysis (EDA) to understand customer behavior.
+
 Identify key factors that influence customer churn.
+
 Build and compare machine learning classification models.
+
 Evaluate models using appropriate performance metrics.
+
 Provide actionable business insights for customer retention.
 
 🗂 Dataset:
